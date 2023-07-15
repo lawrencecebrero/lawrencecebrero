@@ -7,7 +7,7 @@
 
 ### How to reach me: 
 <a href="mailto: lawrencecebreroshs@gmail.com">
-<img src="https://img.shields.io/badge/-cacastanas%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
+<img src="https://img.shields.io/badge/-lawrencecebreroshs%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
 
 <h3 align="center">
     <a href="https://hits.seeyoufarm.com">
