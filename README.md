@@ -17,14 +17,14 @@
 
    <details> 
       <summary>
-         <kbd><h3>View Metrics</h3><kbd>
+         <h4>View Metrics</h4>
       </summary>
     <a href="https://github.com/lawrencecebrero?tab=repositories&type=source"><img src="./github-metrics.svg" /></a>
    </details>
 
    <details>
       <summary>
-         <kbd><h3>View Skills</h3><kbd>
+         <h4>View Skills</h4>
       </summary>
       
    Programming languages<br>
