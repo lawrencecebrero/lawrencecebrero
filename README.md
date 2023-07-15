@@ -3,7 +3,7 @@
    Hello, I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/lawrencecebrero">Lawrence Cebrero</a></b>!
 </h1>
 
-<h4 align="center"> A 19 year old ICT Student from the Philippines. </h4>
+<h4 align="center"> A 19-year-old ICT Senior High School Graduate from the Philippines. </h4>
 
 <p align="center">
    <a href="https://hits.seeyoufarm.com">
