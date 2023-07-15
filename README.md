@@ -1,4 +1,3 @@
-![Metrics](https://metrics.lecoq.io/lawrencecebrero?template=classic&isocalendar=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=5&config.timezone=Asia%2FPhilippines)
 <h1 align="center">Hi, I'm Lawrence! 👋
 <h3 align="center">A 19 year old BS Information Technology student from Philippines.</h3>
 </h1>
