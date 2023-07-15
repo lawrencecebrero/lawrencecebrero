@@ -23,10 +23,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: thatonecalculator
+          user: lawrencecebrero
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: America/Los_Angeles
+          config_timezone: Philippines/Manila
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_ignored: explorer, gister, helper
