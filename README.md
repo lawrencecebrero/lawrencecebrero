@@ -1,21 +1,29 @@
+[![@lawrencecebrero](https://raw.githubusercontent.com/lawrencecebrero/lawrencecebrero/main/assets/bghead.jpg)](https://facebook.com/lawcebrero)
 <h1 align="center">
    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
    Hello, I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/lawrencecebrero">Lawrence Cebrero</a></b>!
 </h1>
 
-<h4 align="center"> A 19-year-old ICT Senior High School Graduate from the Philippines. </h4>
+<h3 align="center"> A 19-year-old ICT Senior High School Graduate from the Philippines. </h3>
 
 <p align="center">
-   <a href="https://hits.seeyoufarm.com">
-   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flawrencecebrero&count_bg=%2379C83D&title_bg=%23373737&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true"/>
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://lawrencecebrero.read.cv/">
+     <img src="https://komarev.com/ghpvc/?username=lawrencecebrero&label=Profile%20Views&color=79c043&style=flat&label=Visitors" alt="Visitors">
+  </a>
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://lawrencecebrero.read.cv/">
+     <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=79c043&style=flat&style=for-the badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/lawrencecebrero" alt="Total Stars"">
+  </a>
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://lawrencecebrero.read.cv/">
+     <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=79c043&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/lawrencecebrero" alt="Total Forks"">
+  </a>
+<!--    <br> -->
+<!--    <a href="https://hits.seeyoufarm.com">
+   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flawrencecebrero&count_bg=%2379C83D&title_bg=%23373737&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true"/> -->
    </a>
 </p>
 
-------------------------------------------- 
-
 <h3 align="center">
 <p align="center">
-
    <details> 
       <summary>
          <h4>View Metrics</h4>
