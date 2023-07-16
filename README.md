@@ -1,10 +1,16 @@
 [![@lawrencecebrero](https://raw.githubusercontent.com/lawrencecebrero/lawrencecebrero/main/assets/bghead.jpg)](https://facebook.com/lawcebrero)
 <h1 align="center">
    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-   Hello, I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/lawrencecebrero">Lawrence Cebrero</a></b>!
+   Hello, I'm <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/lawrencecebrero"><b>Lawrence Cebrero</b></a>!
 </h1>
 
-<h3 align="center"> A 19-year-old ICT Senior High School Graduate from the Philippines. </h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=250&pause=3000&color=79C043&center=true&width=800&lines=A+19-year-old+ICT+Senior+High+School+Graduate+from+the+Philippines.;I+am+an+aspiring+Full-Stack+Web+Developer+%2F+Software+Engineer.;Bachelor+of+Science+degree+in+Information+Technology;Cavite+State+University+Student" alt="Typing SVG"/>
+  </a>
+</div>
+
+<!--<h3 align="center"> A 19-year-old ICT Senior High School Graduate from the Philippines. </h3>-->
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://lawrencecebrero.read.cv/">
@@ -20,10 +26,14 @@
 <!--    <a href="https://hits.seeyoufarm.com">
    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flawrencecebrero&count_bg=%2379C83D&title_bg=%23373737&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true"/> -->
    </a>
+
+   <br>
 </p>
 
-<h3 align="center">
+[![@lawrencecebrero](https://raw.githubusercontent.com/lawrencecebrero/lawrencecebrero/main/assets/bgfoot.jpg)]()
+
 <p align="center">
+<h3 align="center">
    <details> 
       <summary>
          <h4>View Metrics</h4>
@@ -101,5 +111,6 @@
    <a href="https://9p.io/plan9/"><img src="https://skillicons.dev/icons?i=plan9" /></a> -->
 </h3>
 </p>
+<br>
 
 [![@lawrencecebrero](https://raw.githubusercontent.com/lawrencecebrero/lawrencecebrero/main/assets/bgfoot.jpg)]()
