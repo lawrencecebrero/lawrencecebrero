@@ -31,7 +31,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lawrencecebrero&theme=dark&hide_border=true&ring=79C043&fire=79C043&currStreakLabel=79C043)](https://git.io/streak-stats)
 
 </div>
-
 </p>
 
 [![@lawrencecebrero](https://raw.githubusercontent.com/lawrencecebrero/lawrencecebrero/main/assets/bgfoot.jpg)]()
