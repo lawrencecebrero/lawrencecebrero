@@ -105,7 +105,7 @@
    <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" /></a>-->
    <br>
    
-   Databases<!--&emsp;&emsp;&emsp;&emsp;&emsp;OSes--><br><br>
+  Databases<!--&emsp;&emsp;&emsp;&emsp;&emsp;OSes--><br><br>
    <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
    <!--<a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" /></a>
    &emsp;
