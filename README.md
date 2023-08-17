@@ -43,7 +43,6 @@
       </summary>
     <a href="https://github.com/lawrencecebrero?tab=repositories&type=source"><img src="./github-metrics.svg" /></a>
    </details>
-
    <details>
       <summary>
          <h4>View Skills</h4>
@@ -91,7 +90,7 @@
    <a href="https://www.adobe.com/products/premiere.html"><img src="https://skillicons.dev/icons?i=premiere" /></a>
    <!--<a href="https://www.w3.org/Graphics/SVG/"><img src="https://skillicons.dev/icons?i=svg" /></a>-->
    <br>
-   
+
    Technologies&emsp;&emsp;  Developer Tools<br>
    <!--<a href="https://discord.com/developers/docs/intro"><img src="https://skillicons.dev/icons?i=discordbots" /></a>-->
    <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" /></a>
