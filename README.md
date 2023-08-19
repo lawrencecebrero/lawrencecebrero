@@ -10,7 +10,6 @@
   </a>
 </div>
 
-<!--<h3 align="center"> A 19-year-old ICT Senior High School Graduate from the Philippines. </h3>-->
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://lawrencecebrero.read.cv/">
