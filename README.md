@@ -10,7 +10,6 @@
   </a>
 </div>
 
-
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://lawrencecebrero.read.cv/">
      <img src="https://komarev.com/ghpvc/?username=lawrencecebrero&label=Profile%20Views&color=79c043&style=flat&label=Visitors" alt="Visitors">
