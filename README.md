@@ -2,7 +2,7 @@
 <h1 align="center">
    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
    Hello, I'm <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/lawrencecebrero"><b>Lawrence Cebrero</b></a>!
-</h1>
+</h1> 
  
 <div align="center">
   <a href="https://git.io/typing-svg">
